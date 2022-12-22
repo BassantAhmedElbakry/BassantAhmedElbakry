@@ -5,8 +5,9 @@
 
 <!-- ✨ABOUT ME -->
 ## ✨About Me
-<br />🎓 Elecrtonics and communication Engineering Student @Faculty of Engineering Cairo University
-<br />Courses I studied in university:
+<br />
+* 🎓 Elecrtonics and communication Engineering Student @Faculty of Engineering Cairo University
+* Courses I studied in university:<br />
 <!--
 **BassantAhmedElbakry/BassantAhmedElbakry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
