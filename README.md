@@ -30,6 +30,9 @@
     <li>Electric Circuits</li>
     <li>Fields & Waves</li>
     <li>Modern Physics</li>
+    <li>Optics</li>
+    <li>Management</li>
+    <li>Creative thinking</li>
     
    </ul>
    </strong></li>
