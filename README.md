@@ -43,6 +43,19 @@
   </a>
 </div>
 <br><br>
+
+# 🤹 My Skills
+
+<div align="center">
+  <ul>
+      <li>C</li>
+      <li>C++</li>
+   </ul>
+   </strong></li>
+</ul>
+ </div>
+<br>
+
 <!--
 **BassantAhmedElbakry/BassantAhmedElbakry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
