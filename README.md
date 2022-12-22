@@ -47,12 +47,12 @@
 # 🤹 My Skills
 
 <div align="center">
-  <ul>
+  
       <li>C</li>
       <li>C++</li>
    </ul>
    </strong></li>
-</ul>
+
  </div>
 <br>
 
