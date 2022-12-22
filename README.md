@@ -49,15 +49,26 @@
 <div align="center">
  
   <img title="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img title="Embedded Systems" src="https://img.shields.io/badge/Embedded Systems-563D7C?style=for-the-badge&logo=embeddedsystems&logoColor=white">
   <img title="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img title="Arduino_IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img title="MATLAB" src="https://img.shields.io/badge/MATLAB-E34F26?style=for-the-badge&logo=matlab&logoColor=white">
   <img title="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img title="Embedded Systems" src="https://img.shields.io/badge/Embedded Systems-563D7C?style=for-the-badge&logo=embeddedsystems&logoColor=white">
 
 
  </div>
 <br>
+
+# 📈 Some Stats
+<div align="center">
+
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BassantAhmedElbakry&count_private=true&theme=jolly)
+  
+  <br>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BassantAhmedElbakry&show_icons=true&theme=jolly)
+
+</div>
 
 <!--
 **BassantAhmedElbakry/BassantAhmedElbakry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
