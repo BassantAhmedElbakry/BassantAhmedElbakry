@@ -11,13 +11,26 @@
  <li><strong>🎓 Electronics and communicatin Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a></strong></li>
  <li><strong>Courses I studied in university: 
    <ul>
-      <li>C++</li>
-      <li>Microprocessor</li>
-      <li>Advanced Microprocessor</li>
-      <li>Electronics</li>
-      <li>IC Electronics</li>
-      <li>Logic Design </li>
-      <li>Probability and Statistics</li>
+    <li>Embedded Systems</li>
+    <li>C++</li>
+    <li>Data Structure</li>
+    <li>Microprocessor</li>
+    <li>Advanced Microprocessor</li>
+    <li>Electronics</li>
+    <li>Communication</li>
+    <li>Control</li>
+    <li>Antennas and Waveguides</li>
+    <li>IC Electronics</li>
+    <li>Logic Design</li>
+    <li>Probability and Statistics</li>
+    <li>Signals</li>
+    <li>Impact of Environmental Effects</li>
+    <li>Complex Functions</li>
+    <li>Microwaves</li>
+    <li>Electric Circuits</li>
+    <li>Fields & Waves</li>
+    <li>Modern Physics</li>
+    
    </ul>
    </strong></li>
 </ul>
