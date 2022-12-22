@@ -47,11 +47,12 @@
 # 🤹 My Skills
 
 <div align="center">
-  
-      <li>C</li>
-      <li>C++</li>
-   </ul>
-   </strong></li>
+ 
+  <img title="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img title="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img title="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img title="Arduino_IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img title="MATLAB" src="https://img.shields.io/badge/MATLAB-00979D?style=for-the-badge&logo=matlab&logoColor=white">
 
  </div>
 <br>
