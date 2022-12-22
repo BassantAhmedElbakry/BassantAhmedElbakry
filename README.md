@@ -1,7 +1,10 @@
 ### Hello 👋, I'm Bassant
+-------------------------------------------------------------------------------------------
 ![WelltodoCavernousHeterodontosaurus-size_restricted](https://user-images.githubusercontent.com/104600321/209235565-cde9751a-e864-45f5-9e0a-0781e8e90a9f.gif)
 ![](https://github.com/BassantAhmedElbakry/https://user-images.githubusercontent.com/104600321/209235565-cde9751a-e864-45f5-9e0a-0781e8e90a9f.gif)
 <!--
+✨ About Me
+
 **BassantAhmedElbakry/BassantAhmedElbakry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
