@@ -4,10 +4,25 @@
 ![](https://github.com/BassantAhmedElbakry/https://user-images.githubusercontent.com/104600321/209235565-cde9751a-e864-45f5-9e0a-0781e8e90a9f.gif)
 
 <!-- ✨ABOUT ME -->
-## ✨About Me
 <br>
-* 🎓 Elecrtonics and communication Engineering Student @Faculty of Engineering Cairo University
-* Courses I studied in university:<br>
+
+# ✨ About Me
+<ul>
+ <li><strong>🎓 Electronics and communicatin Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a></strong></li>
+ <li><strong>Courses I studied in university: 
+   <ul>
+      <li>C++</li>
+      <li>Microprocessor</li>
+      <li>Advanced Microprocessor</li>
+      <li>Electronics</li>
+      <li>IC Electronics</li>
+      <li>Logic Design </li>
+      <li>Probability and Statistics</li>
+   </ul>
+   </strong></li>
+</ul>
+
+<br>
 <!--
 **BassantAhmedElbakry/BassantAhmedElbakry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
