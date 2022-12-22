@@ -23,6 +23,26 @@
 </ul>
 
 <br>
+
+# 💬 How to reach me:
+
+<div align="center">
+  <a href="https://www.facebook.com/bosy.bosy.3591">
+  <img alt="bassant's Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
+       draggable="false" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/bassant-ahmed-elbakry-57662921b">
+    <img alt="bassant's LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         draggable="false" />
+  </a>
+
+  <a href="mailto:bassant.elsaid01@eng-st.cu.edu.eg">
+    <img alt="bassant's email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+          draggable="false" />
+  </a>
+</div>
+<br><br>
 <!--
 **BassantAhmedElbakry/BassantAhmedElbakry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
