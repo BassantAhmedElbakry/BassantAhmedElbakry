@@ -53,7 +53,7 @@
          draggable="false" />
   </a>
 
-  <a href="mailto:bassant.elsaid01@eng-st.cu.edu.eg">
+  <a href="mailto:bassantelbakry0@gmail.com">
     <img alt="bassant's email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
           draggable="false" />
   </a>
